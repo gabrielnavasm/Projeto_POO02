@@ -26,6 +26,9 @@
                 Parcelas: <input type="number" name="numeroParcelas">
                 <input type="submit" name="calcular" value="calcular">
             </form>  
+                <br>
+                <br>
+                
             <table border="1>"
                    
                      
