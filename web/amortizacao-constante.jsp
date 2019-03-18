@@ -56,10 +56,10 @@
                  %>
                  <tr> 
                     <td><%=i%></td>
-                    <td><%=parcela%></td> 
-                    <td><%=amortizacao%></td>
-                    <td><%=juros%></td> 
-                    <td><%=saldoAtualizado%></td>
+                    <td>R$<%=parcela%></td> 
+                    <td>R$<%=amortizacao%></td>
+                    <td>R$<%=juros%></td> 
+                    <td>R$<%=saldoAtualizado%></td>
                     
                     
                     <%
@@ -76,7 +76,7 @@
                      } 
 %>
 
-<tr><td>#</td><td><%=somaParcela%></td><td><%=emprestimo%></td><td><%=somaJuros%></td><td>TOTAIS</td></tr>
+<tr><td>#</td><td>R$<%=somaParcela%></td><td>R$<%=emprestimo%></td><td>R$<%=somaJuros%></td><td>TOTAIS</td></tr>
 
 <%
 

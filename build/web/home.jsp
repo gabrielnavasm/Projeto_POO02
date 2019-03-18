@@ -16,13 +16,18 @@
         <%@include file="WEB-INF/jspf/menu.jspf"%>
         </header>
     <body>
-        <div  class="min">
-        <!--
-        MARCOS!
-        DESENVOLVER NESTA ÁREA
+        <div  class="min" align="center">
+            
+            
+            <br>
+            <br>
+           
+            <center><H1>Calculo de Empréstimos e Financiamentos<H1></center>
+            <table>
+                <center><h1>Integrantes</h1> </center>
+                <tr><td>Alam Bernardino | Gabriel Navas | Marcos V. Mariano</td></tr>
         
-        
-        -->
+            </table>
             
         
         

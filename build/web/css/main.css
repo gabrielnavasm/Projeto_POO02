@@ -1,6 +1,6 @@
 body
 {
-background-color:#d0e4fe;
+background-color:#ffffff;
 }
 h2
 {
@@ -14,7 +14,7 @@ font-size:20px;
 }
 
 div.min {    
-    min-height: 100px;
+    min-height: 200px;
     
     
 }   
